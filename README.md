@@ -6,4 +6,4 @@ This is accomplished by stepping through each worksheet row by row and tracking 
 Calculations used:
 -Yearly Change = Latest close price - earliest open price.
 -Percent change =
--Total Stock Volume = 
+-Total Stock Volume
