@@ -5,5 +5,5 @@ This is accomplished by stepping through each worksheet row by row and tracking 
 
 Calculations used:
 -Yearly Change = Latest close price - earliest open price.
--Percent change =
--Total Stock Volume
+-Percent change = (Latest close price - earliest open price)/earliest open price.
+-Total Stock Volume = Sum of stock volume column for each ticker.
